@@ -1,0 +1,9 @@
+[
+    {"id": 1, "nombre": "Pantalón","categoria": "Moda", "stock": 10, "precio": 12000, "cantidad": 1, "img": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw4164a91c/products/LONIFW230481/LONIFW230481-1.JPG"},
+    {"id": 2, "nombre": "Aceite de coco","categoria": "Salud","stock": 15,"precio": 700,"cantidad": 1, "img":"https://www.jabonariumshop.com/media/catalog/product/a/c/aceite-de-coco-refinado_1.jpg"},
+    {"id": 3, "nombre": "Cafetera","categoria": "Electrodomésticos","stock": 20,"precio": 15000, "cantidad": 1, "img":"https://www.rioshopdeco.com.ar/9932-thickbox_default/cafetera-cofix-18lts-art-aac960-c-timer-color-negro.jpg"},
+    {"id": 4, "nombre": "Chaqueta", "categoria": "Moda","stock": 15,"precio": 20000, "cantidad": 1, "img":"https://static.pullandbear.net/2/static2/img/filters/SRA/1030204609.jpg?imwidth=774.375&20230903015706"},
+    {"id": 5, "nombre": "Televisor","categoria": "Electrodomésticos","stock": 10,"precio": 200000, "cantidad": 1, "img":"https://www.megatone.net/images/Articulos/zoom2x/253/MKT0343ETC.jpg"},
+    {"id": 6, "nombre": "Aspiradora","categoria": "Electrodomésticos","stock": 15,"precio": 70000, "cantidad": 1, "img":"https://nogalpark.com/archivos/recortes/aspiradora-karcher-nt90-2-nogalpark.jpg"},
+    {"id": 7, "nombre": "Licuadora","categoria": "Electrodomésticos","stock": 15,"precio": 80000, "cantidad": 1, "img":"https://images.fravega.com/f1000/8596734c456b71cf0caf656d39a30f0b.jpg"},
+    {"id": 8, "nombre": "Air Fryer","categoria": "Electrodomésticos","stock": 15,"precio": 30000, "cantidad": 1,   "img":"https://www.liliana.com.ar/wp-content/uploads/2020/11/AF915_web_04.jpg"}]
